@@ -1,4 +1,4 @@
-/// O(N * log^2 N)
+/// O(MN * log^2 MN)
 /** only Segment Tree 2D update + query when
     update 1 cell -> query range
     update range -> query 1 cell
